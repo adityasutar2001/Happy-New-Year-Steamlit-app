@@ -16,6 +16,7 @@ if st.button("🎉 Send Wishes"):
         st.write("🌟 May this New Year bring you happiness, success, and new opportunities.")
         st.write("🎊 May all your dreams come true in 2026!")
         st.write("💫 Wishing you health, peace, and prosperity.")
+        st.write("💫 Wishing you new chapter...thank you .")
 
         st.balloons()
     else:
